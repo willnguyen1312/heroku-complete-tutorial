@@ -1,6 +1,9 @@
 {
   "name": "heroku-ts",
   "version": "1.0.0",
+  "engines": {
+    "node": "9.2.1"
+  },
   "main": "index.js",
   "license": "MIT"
 }
